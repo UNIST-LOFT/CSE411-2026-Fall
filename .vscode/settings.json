@@ -1,0 +1,8 @@
+{
+    "files.watcherExclude": {
+        "**/target/**": true
+    },
+    "java.diagnostic.filter": [
+        "**/simple-lexer/**/*.java"
+    ]
+}
