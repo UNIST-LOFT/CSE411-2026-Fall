@@ -21,7 +21,7 @@ Your task is to complete the lexer implementation. Our lexer should recognize th
 sbt simpleLexer/test
 ```
 
-## What to Submit
+### What to Submit
 
 1. The NFA for the regular expression `IF | ID | INT`
 2. The DFA converted from the NFA
@@ -37,3 +37,10 @@ Submit the following two files via BlackBoard.
 ### Submission Deadline
 
 **Due: September 15, 2026; 4:00pm KST**
+
+
+### Evaluation Methods
+
+1. If your implementation passes all 10 JUnit tests and does not simply hard-code the expected results for each test case, you will receive full points (10 points).
+2. During the class on September 16, 2026, some students may be asked to demonstrate their solutions. Those who successfully demonstrate their solutions will receive 5 additional points.
+
