@@ -36,7 +36,7 @@ Submit the following two files via BlackBoard.
 
 ### Submission Deadline
 
-**Due: September 15, 2026; 4:00pm KST**
+**Due: September 15, 2026; 3:00pm KST**
 
 
 ### Evaluation Methods
