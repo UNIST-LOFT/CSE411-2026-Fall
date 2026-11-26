@@ -28,3 +28,5 @@ This section provides links to the README files for each assignment in the cours
 7. See [sjc-symboltable/README.md](sjc-symboltable/README.md)
 8. See [sjc-typechecker/README.md](sjc-typechecker/README.md)
 9. See [sjc-ll-gen/README.md](sjc-ll-gen/README.md)
+10. See [live-vars/README.md](live-vars/README.md)
+11. See [constant-prop/README.md](constant-prop/README.md)
