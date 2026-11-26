@@ -115,3 +115,8 @@ lazy val sjcLLGen =
       libraryDependencies += "junit" % "junit" % "4.13.2" % Test
     )
     .dependsOn(sjcParser, sjcAst, sjcTypeChecker)
+
+lazy val liveVars =
+  (project in file("live-vars"))
+    .settings(commonSettings: _*)
+    .dependsOn(sjcLLGen)
