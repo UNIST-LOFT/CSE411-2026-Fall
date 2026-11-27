@@ -4,6 +4,5 @@ target
 project/target/
 project/metals.sbt
 project/project
-*.ll
 *.o
 /sjc-ll-gen/output/
